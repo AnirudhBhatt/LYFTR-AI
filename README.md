@@ -6,11 +6,9 @@ A full-stack, deployable LLM chatbot built with **React (Vite)**, **FastAPI**, *
 
 ## 1. Live URLs
 
-> Replace these placeholders after deploying both tiers (see deployment steps below):
-
-- **Frontend (Vercel / Netlify / Cloudflare Pages):** `https://<your-frontend-domain>`
-- **Backend (Render / Railway / Fly.io / HF Spaces):** `https://<your-backend-domain>`
-- **Health check:** `https://<your-backend-domain>/health`
+- **Frontend (Vercel):** https://lyftr-ai-eta.vercel.app
+- **Backend (Render):** https://lyftr-llm-backend-w8h5.onrender.com
+- **Health check:** https://lyftr-llm-backend-w8h5.onrender.com/health
 
 ---
 
